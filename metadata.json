@@ -1,0 +1,8 @@
+{
+  "name": "Digital Growth Hub",
+  "description": "An educational digital marketing blog publishing comprehensive guides on SEO, content marketing, PPC, analytics, and AI growth strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

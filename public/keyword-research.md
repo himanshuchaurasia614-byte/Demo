@@ -1,0 +1,32 @@
+# Keyword Research Reference & Strategy Plan
+**Website:** Digital Growth Hub  
+**Purpose:** College SEO Assignment & Comprehensive Educational Resource  
+**Status:** All search volume and keyword difficulty metrics are marked **Unverified** because actual subscription-based third-party metrics (e.g., Ahrefs / Semrush API) are unverified for this academic assignment. Metrics should not be artificially fabricated.
+
+---
+
+## Strategy Summary
+
+| Page Name | Target URL Slug | Primary Keyword | Related Keyword 1 | Related Keyword 2 | Search Intent | SEO Title | Meta Description | Monthly Volume | Keyword Difficulty |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Homepage** | `/` | `digital marketing blog` | `digital growth hub` | `learn digital marketing` | Informational | Digital Growth Hub – Modern Digital Marketing & SEO Guides | Master search engine optimization, content strategy, email marketing, analytics, and AI in marketing with comprehensive educational guides. | *Unverified* | *Unverified* |
+| **SEO for Beginners** | `/blog/seo-for-beginners` | `SEO for beginners` | `search engine optimization guide` | `how search engines work` | Informational | SEO for Beginners: A Complete Guide to Search Engine Optimization | A comprehensive beginner's guide to SEO. Learn crawling, indexing, ranking factors, Core Web Vitals, and how to optimize your website for Google. | *Unverified* | *Unverified* |
+| **Keyword Research Guide** | `/blog/keyword-research-guide` | `keyword research` | `how to find keywords` | `search intent analysis` | Informational / Commercial | Keyword Research: How to Find the Right Keywords (Step-by-Step) | Master keyword research step-by-step. Discover seed keywords, search intent, competitive analysis, and tools to identify high-value search terms. | *Unverified* | *Unverified* |
+| **On-Page SEO Guide** | `/blog/on-page-seo-guide` | `on-page SEO` | `on-page optimization checklist` | `meta tags optimization` | Informational / Practical | On-Page SEO: A Practical Optimization Guide & Checklist | Learn practical on-page SEO techniques: title tag formulas, heading hierarchy, content structure, image alt text, and internal link architecture. | *Unverified* | *Unverified* |
+| **Technical SEO Guide** | `/blog/technical-seo-guide` | `technical SEO` | `site speed optimization` | `crawling and indexing` | Informational / Technical | Technical SEO: Website Speed, Crawling, and Indexing Guide | Ensure search engines crawl and index your pages flawlessly. Learn Core Web Vitals, XML sitemaps, robots.txt, canonicalization, and mobile rendering. | *Unverified* | *Unverified* |
+| **Content Marketing Strategy** | `/blog/content-marketing-strategy` | `content marketing strategy` | `content creation framework` | `audience persona` | Informational | Content Marketing Strategy: A Step-by-Step Guide for Growth | Build a content marketing strategy that drives organic traffic, brand authority, and customer conversions. Complete with distribution workflows. | *Unverified* | *Unverified* |
+| **Social Media Marketing** | `/blog/social-media-marketing-growth` | `social media marketing` | `brand growth on social` | `social media engagement` | Informational | Social Media Marketing: How to Grow Your Brand Online | Learn how to select the right social platforms, build an engaged community, optimize posting schedules, and measure social media ROI. | *Unverified* | *Unverified* |
+| **Email Marketing** | `/blog/email-marketing-conversions` | `email marketing` | `email campaigns that convert` | `email list segmentation` | Informational / Practical | Email Marketing: Build Campaigns That Convert & Retain Customers | Discover high-converting email marketing workflows, list building strategies, segmentation methods, and deliverability best practices. | *Unverified* | *Unverified* |
+| **Google Ads vs SEO** | `/blog/google-ads-vs-seo` | `Google Ads vs SEO` | `SEO vs PPC comparison` | `paid vs organic search` | Commercial Investigation | Google Ads vs SEO: Which Strategy Should You Choose? | Compare Google Ads and SEO: costs, timelines, ROI, conversion rates, and how to build a hybrid digital marketing search strategy. | *Unverified* | *Unverified* |
+| **Marketing Analytics** | `/blog/digital-marketing-analytics` | `digital marketing analytics` | `measure marketing ROI` | `GA4 key metrics` | Informational | Digital Marketing Analytics: Measure What Matters (GA4 Guide) | Learn how to track meaningful marketing KPIs, configure GA4, understand attribution models, and turn raw website data into actionable growth. | *Unverified* | *Unverified* |
+| **AI in Digital Marketing** | `/blog/ai-in-digital-marketing` | `AI in digital marketing` | `generative AI marketing tools` | `AI SEO challenges` | Informational | AI in Digital Marketing: Tools, Benefits, and Challenges (2025-2026) | Explore the impact of AI on SEO, copywriting, automation, and predictive customer journeys, alongside ethical challenges and Google search guidelines. | *Unverified* | *Unverified* |
+
+---
+
+## On-Page Keyword Placement Methodology
+1. **Title Tag:** Primary keyword placed naturally towards the beginning of the title tag.
+2. **Meta Description:** Primary and one secondary keyword woven naturally into an active, benefit-driven snippet under 160 characters.
+3. **URL Slug:** Clean, hyphenated, lowercase representation containing the primary keyword phrase.
+4. **H1 Heading:** Distinct from title tag while clearly communicating page intent and incorporating the target topic.
+5. **AEO Headings (H2s):** Formulated as explicit, high-intent user questions followed by crisp, direct answer paragraphs for snippet extractability.
+6. **Internal Links:** Contextual anchor text with clear topical associations (no "click here" or raw URLs).
